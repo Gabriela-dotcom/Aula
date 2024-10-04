@@ -23,4 +23,5 @@ o void loop é usado para executar as instruções em loop
 variais ledLcd na entrada 13 do arduino e LiquidCrystal lcd (2, 3, 4, 9, 10, 11, 12) para ligar o tela lcd
 além da biblioteca que foi necessária para o projeto LiquidCrystal.h
 
-![ Sensor De Aproximação](sensordeaproximacao.png)
+!![sensordeaproximacao png](https://github.com/user-attachments/assets/92d4875a-5b2a-413a-98bc-30992f482102)
+
