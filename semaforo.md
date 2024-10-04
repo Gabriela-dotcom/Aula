@@ -25,4 +25,5 @@
  ledVerde = 3
  os números a cima são as entradas digitais do arduino.
 
- ![Semáforo](semaforo.png)
+![semáforo](https://github.com/user-attachments/assets/f9b88fd2-add3-4714-9138-870583e091bc)
+
