@@ -24,5 +24,6 @@ o desafio era o seguinte:
   o void setup e usado para executar as configurações inicias do arduino
   o void loop e usado para executar instalações em loop (essas que vão ser repetidas várias vezes)
   as variaveis que são (ledvermelho 1, 2, 3 e 4), (ledverde 1, 2, 3 e 4) e (ledamarelo 1 e 2)
+  
+![semaforointeligente png](https://github.com/user-attachments/assets/93611b07-12f8-475a-9ff9-3a0e297f689b)
 
-  ![imagem](semaforointeligente.png)
