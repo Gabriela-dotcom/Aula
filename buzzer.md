@@ -19,4 +19,4 @@ mi,fá. Uma coisa básica, apenas com o intuito de aprender.
  as variavéis usadas foram: buzzer3, mas tivermos que fazer um define para que as notas podessem ser usadas, sendo elas
  do,re,mi e fa.
 
- ![Buzzer](buzzer.png)
+![buzzer](https://github.com/user-attachments/assets/a20e0c04-2efc-4fda-8665-538966ace5a5)
