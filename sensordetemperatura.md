@@ -22,5 +22,6 @@ O void loop executa as introduçoes repetidamente.
 as variaveis sensorTMP que foi ligando na entrada A0 do arduino, o valorlido inicialmente seu valor e igual a zero.
 e também usamos LiquidCrystal_I2C telaLcd (0x20,16,2) para iniciar a tela lcd.
 
-![Sensor de Temperatura](sensordetemperatura.png)
+!![sensordetemperatura png](https://github.com/user-attachments/assets/894db953-704a-443b-868a-96209a08e6f1)
+
 
