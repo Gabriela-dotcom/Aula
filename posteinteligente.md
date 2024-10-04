@@ -22,4 +22,5 @@ e o void loop tem como função executar as introduções em loop.
 as variaveis led, sensordeluminosidade, valorsensor são usadas para guardar as numerações que estão conectados no arduino.
 e luz e uma variavel para capturar luminosidade com o valor inicial igual a zero.
 
-![Poste inteligente](posteinteligente.png).
+![posteinteligente png](https://github.com/user-attachments/assets/2dba3d73-f912-49ce-9adf-4c3d67bb57ef)
+
