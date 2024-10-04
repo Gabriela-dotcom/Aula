@@ -25,4 +25,5 @@ o void loop executar as instruções em loop
 variaveis são ledvermelho1 ligado na entrada 1, ledvermelho2 ligado na entrada 2, ledazul1 ligado na entrada 3, ledazul2 ligado na entrada 4
 ledverde1 ligado na entrada 5 e ledverde2 ligado na entrada 6.
 
-![Leds Piscantes](ledspiscantes.png)
+![leds piscantes](https://github.com/user-attachments/assets/32b4a076-effa-4b7d-a115-2600ee462d32)
+
