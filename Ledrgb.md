@@ -22,4 +22,5 @@ o void loop e usado para executar instruções repetidas vezes
 as variaveis R que foi ligada na entrada 6, G na 3, B na 5, R2 na 7, G2 na 2 e B2 na 4.
 e para gerar os números aleatorios usamos mas 3 variaveis v1,v2 e v3 com a seguinte informação "random (0,255)"
 
-![ Led RGB](ledrgb.png)
+
+![ledrgb png](https://github.com/user-attachments/assets/42e6bb44-2abe-48ea-87e0-412f338ecd7a)
